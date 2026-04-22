@@ -47,7 +47,7 @@ The paper introduces AgriChain as a dataset of approximately **11,000 expert-cur
 ## 🧭 Training Pipeline
 
 <p align="center">
-  <img src="static/agrichain_pipeline.png" width="100%" alt="AgriChain pipeline"/>
+  <img src="assets/pipeline.png" width="100%" alt="AgriChain pipeline"/>
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ Each image is paired with a diagnosis-oriented explanation and confidence estima
 ## 🖼️ Example Outputs
 
 <p align="center">
-  <img src="static/example_outputs.png" width="90%" alt="Example disease classification outputs"/>
+  <img src="assets/samples.png" width="90%" alt="Example disease classification outputs"/>
 </p>
 
 <p align="center">
@@ -97,7 +97,7 @@ Each image is paired with a diagnosis-oriented explanation and confidence estima
 ## 📝 Prompting for Reasoning Generation
 
 <p align="center">
-  <img src="static/agrichain_prompt.png" width="75%" alt="AgriChain prompt"/>
+  <img src="assets/prompt.png" width="45%" alt="AgriChain prompt"/>
 </p>
 
 <p align="center">
@@ -186,7 +186,7 @@ The paper also reports strong inter-annotator agreement:
 ## 🔍 Qualitative Case Study
 
 <p align="center">
-  <img src="static/qualitative_case.png" width="70%" alt="Illustrative diagnosis example"/>
+  <img src="assets/diagnos.png" width="40%" alt="Illustrative diagnosis example"/>
 </p>
 
 <p align="center">
