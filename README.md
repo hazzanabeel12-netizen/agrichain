@@ -1,4 +1,4 @@
-<img src='static/agrichain_logo.png' align="left" width="14%" />
+<img src='assets/logo.png' align="left" width="14%" />
 <div style="margin-top:50px;">
   <h1 style="font-size: 30px; margin: 0;">AgriChain: Visually-Grounded Expert-Verified Reasoning for Interpretable Agricultural Vision–Language Models</h1>
 </div>
@@ -85,7 +85,7 @@ Each image is paired with a diagnosis-oriented explanation and confidence estima
 ## 🖼️ Example Outputs
 
 <p align="center">
-  <img src="assets/samples.png" width="90%" alt="Example disease classification outputs"/>
+  <img src="assets/samples.png" width="75%" alt="Example disease classification outputs"/>
 </p>
 
 <p align="center">
@@ -97,7 +97,7 @@ Each image is paired with a diagnosis-oriented explanation and confidence estima
 ## 📝 Prompting for Reasoning Generation
 
 <p align="center">
-  <img src="assets/prompt.png" width="45%" alt="AgriChain prompt"/>
+  <img src="assets/prompt.png" width="40%" alt="AgriChain prompt"/>
 </p>
 
 <p align="center">
@@ -186,7 +186,7 @@ The paper also reports strong inter-annotator agreement:
 ## 🔍 Qualitative Case Study
 
 <p align="center">
-  <img src="assets/diagnos.png" width="40%" alt="Illustrative diagnosis example"/>
+  <img src="assets/diagnos.png" width="35%" alt="Illustrative diagnosis example"/>
 </p>
 
 <p align="center">
