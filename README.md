@@ -14,7 +14,7 @@
 ---
   
   [![arXiv](https://img.shields.io/badge/arXiv-2604.07814-b31b1b.svg)](https://arxiv.org/abs/2604.07814)
-  [![Paper PDF](https://img.shields.io/badge/Paper-PDF-blue)](agrichain.pdf)
+ [![Paper PDF](https://img.shields.io/badge/Paper-PDF-blue)](agrichain.pdf)
   [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/hazzanabeel12-netizen/agrichain)
   [![Dataset](https://img.shields.io/badge/Dataset-AgriChain-green)](#dataset-overview)
   <br>
@@ -97,7 +97,7 @@ Each image is paired with a diagnosis-oriented explanation and confidence estima
 ## 📝 Prompting for Reasoning Generation
 
 <p align="center">
-  <img src="assets/prompt.png" width="40%" alt="AgriChain prompt"/>
+  <img src="assets/prompt.png" width="35%" alt="AgriChain prompt"/>
 </p>
 
 <p align="center">
